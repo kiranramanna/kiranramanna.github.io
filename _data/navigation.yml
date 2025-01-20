@@ -7,7 +7,7 @@ main:
     url: "/#-recent-work"
 
   - title: "Research Blog"
-    url: "/kiranramanna/clearlyexplained"
+    url: "/clearlyexplained"
     
   # - title: "News"
   #   url: "/#-news"
