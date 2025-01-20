@@ -5,6 +5,9 @@ main:
 
   - title: "Experience"
     url: "/#-recent-work"
+
+  - title: "Research Blog"
+    url: "/kiranramanna/clearlyexplained"
     
   # - title: "News"
   #   url: "/#-news"
