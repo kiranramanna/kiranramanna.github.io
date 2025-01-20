@@ -20,6 +20,7 @@ redirect_from:
 A seasoned IT professional with expertise in machine learning, system and database architecture, and innovative technology solutions. Known for leading projects that integrate Generative AI technologies and delivering scalable, high-quality software solutions.
 
 
+<span class='anchor' id='news'></span>
 # 🔥 Recent work
 - **AI Search:** 
  - Key contributor to the integration of AI search into the Our Company platform, utilizing Generative AI technology.
