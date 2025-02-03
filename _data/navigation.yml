@@ -9,8 +9,8 @@ main:
   - title: "Research Blog"
     url: "/thinkit"
     
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "Astro website"
+    url: "www.kiranramanna.com"
 
   # - title: "Publications"
   #   url: "/#-publications"
