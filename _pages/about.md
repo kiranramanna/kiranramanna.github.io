@@ -122,6 +122,6 @@ A seasoned IT professional with expertise in machine learning, system and databa
 
 * 📧 [kiranramanna112@gmail.com](mailto:kiranramanna112@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kirankumarramanna)
-* 💻 \[GitHub](https://github.com/kiranramanna)
+* 💻 [GitHub](https://github.com/kiranramanna)
 
 ---
